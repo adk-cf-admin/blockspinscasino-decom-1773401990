@@ -1,0 +1,19 @@
+{
+  "name": "BlockSpins",
+  "short_name": "BlockSpins",
+  "theme_color": "",
+  "background_color": "#161630",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773401029-favicon-wwwgooglecom.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
